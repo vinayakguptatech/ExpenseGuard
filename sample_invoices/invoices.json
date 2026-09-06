@@ -1,0 +1,74 @@
+[
+  {
+    "invoice_number": "INV-2001",
+    "vendor": "Om Stationers",
+    "date": "2026-08-01",
+    "amount": 3200,
+    "gstin": "07AAACO1234A1Z5",
+    "category": "office_supplies",
+    "approved_by_manager": false
+  },
+  {
+    "invoice_number": "INV-2002",
+    "vendor": "Skyline Travels",
+    "date": "2026-08-03",
+    "amount": 22500,
+    "gstin": "07AAACS5678B1Z2",
+    "category": "travel",
+    "approved_by_manager": true
+  },
+  {
+    "invoice_number": "INV-2002",
+    "vendor": "Skyline Travels",
+    "date": "2026-08-10",
+    "amount": 22500,
+    "gstin": "07AAACS5678B1Z2",
+    "category": "travel",
+    "approved_by_manager": true
+  },
+  {
+    "invoice_number": "INV-2004",
+    "vendor": "QuickPrint Co",
+    "date": "2026-08-05",
+    "amount": 8700,
+    "gstin": null,
+    "category": "printing",
+    "approved_by_manager": false
+  },
+  {
+    "invoice_number": "INV-2005",
+    "vendor": "Cafe Bloom",
+    "date": "2026-08-06",
+    "amount": 9800,
+    "gstin": "07AAACB9012C1Z8",
+    "category": "office_supplies",
+    "approved_by_manager": false
+  },
+  {
+    "invoice_number": "INV-2006",
+    "vendor": "Cafe Bloom",
+    "date": "2026-08-06",
+    "amount": 9500,
+    "gstin": "07AAACB9012C1Z8",
+    "category": "office_supplies",
+    "approved_by_manager": false
+  },
+  {
+    "invoice_number": "INV-2007",
+    "vendor": "Metro Cabs",
+    "date": "2026-08-08",
+    "amount": 1450,
+    "gstin": null,
+    "category": "travel",
+    "approved_by_manager": false
+  },
+  {
+    "invoice_number": "INV-2008",
+    "vendor": "Party Palace",
+    "date": "2026-08-09",
+    "amount": 6000,
+    "gstin": "07AAACP3456D1Z1",
+    "category": "alcohol",
+    "approved_by_manager": true
+  }
+]
